@@ -1,7 +1,5 @@
 # SS16_HW04 - Chiến lược cập nhật cache: xóa hay ghi đè?
 
-**Sinh viên:** Đặng Khánh An - **Mã sinh viên:** PTIT070
-
 ## 1. Input và Output
 
 Thao tác cập nhật nhận:
